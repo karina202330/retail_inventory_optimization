@@ -1,0 +1,9 @@
+product_id,product_name,category,current_stock,reorder_level,safety_stock
+P001,Product 1,Stationery,48,33,18
+P002,Product 2,Accessories,77,47,13
+P003,Product 3,Stationery,159,41,28
+P004,Product 4,Electronics,28,33,12
+P005,Product 5,Accessories,79,94,29
+P006,Product 6,Accessories,163,55,30
+P007,Product 7,Stationery,159,83,17
+P008,Product 8,Electronics,170,65,10
